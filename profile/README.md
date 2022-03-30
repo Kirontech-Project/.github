@@ -1,5 +1,5 @@
 # Project: Fraud, Waste and Abuse in Health Insurance
-This project is a MathSys 2021-22 MSc group project at University of Warwick.
+It is a MathSys 2021-22 MSc group project at University of Warwick.
 
 ## Resources
 ### Papers
