@@ -4,7 +4,7 @@ It is a MathSys 2021-22 MSc group project at University of Warwick.
 ## Resources
 ### Papers
 - [Anomaly Detection in Networks with Application to Financial Transaction Networks](https://arxiv.org/abs/1901.00402), Andrew Elliott et al(2019)
-- [Modularity and community detection in bipartite networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.76.066102), Barber, M. (2007)
+- [Modularity and community detection in bipartite networks](https://arxiv.org/pdf/0707.1616.pdf), Barber, M. (2007)
 
 ### Techniques
 - Network database - **neo4j**: https://neo4j.com/developer/get-started/
