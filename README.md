@@ -1,2 +1,2 @@
 # .github
-Public repo for editing profile.
+Public repo for profile and public resources.
