@@ -32,7 +32,7 @@ We use Python for programming in this project.
 
 
 ### B. Softwares
-There are many visualization tools available for network analysis, which are detailedly evaluated [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5540468/).  Two softwares among them are used in this project. I particularly list the installation method for Ubuntu since it is my case.
+There are many visualization tools available for network analysis, which are detailedly evaluated [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5540468/).  Two softwares among them are used in this project. We particularly list the installation method for Ubuntu since it is our case.
 
 #### 1. Gephi
 - **Website**: https://gephi.org/
