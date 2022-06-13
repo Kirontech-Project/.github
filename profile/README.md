@@ -1,5 +1,6 @@
 # Project: Graph-Based Anomaly Detection in Healthcare Data
 >It is a MathSys 2021-22 MSc group project at University of Warwick.
+<br/>
 
 ## Main References
 ### Literature Review
@@ -14,12 +15,14 @@
   - **Modularity Maximization - Robustness**: [Dynamic communities in multichannel data: An application to the foreign exchange market during the 2007-2008 credit crisis](https://ui.adsabs.harvard.edu/abs/2009Chaos..19c3119F/abstract) - DJ Fenn, et al (2009)
 - **PSS Algorithm**: [Detecting Healthcare Fraud through Patient Sharing Schemes](https://link.springer.com/chapter/10.1007/978-3-642-29166-1_39) - Aryya Gangopadhyay, Song Chen, and Yelena Yesha (2012)
 - **OddBall**: [OddBall: Spotting Anomalies in Weighted Graphs](http://www.cs.cmu.edu/~mmcgloho/pubs/pakdd10.pdf) - Leman Akoglu, Mary McGlohon, Christos Faloutsos (2010)
+<br/>
 
 ## Python Packages for Method Implementation
 We use Python for programming in this project.
 - Network Analysis - **NetworkX**: https://networkx.org/documentation/stable/reference/index.html
 - Anomaly Detection - **cada**: https://github.com/thomashelling/cada
 - Modularity Maximization via Leiden Algorithm - **CDlib**: https://cdlib.readthedocs.io/en/latest/index.html
+<br/>
 
 ## Network Visualization
 ### A. Python Packages
@@ -47,6 +50,9 @@ Gephi is an open-source graph analysis and visualization program. We use it to m
 Tulip is another open-source graph visualization and analysis tool. Here it is applied for **edge bundling**.
 
 Explanation and other platforms for **edge bundling** are available [here](https://courses.isds.tugraz.at/ivis/surveys/ss2017/ivis-ss2017-g4-survey-edge-bundling.pdf).
+
+<br/>
+
 
 ## Other Techniques
 - Network Database - **Neo4j**: https://neo4j.com/developer/get-started/
