@@ -1,5 +1,12 @@
 # Project: Graph-Based Anomaly Detection in Healthcare Data
 >It is a MathSys 2021-22 MSc group project at University of Warwick.
+
+Our external partners at Kirontech offer a Health Insurance Platform that helps insurance payers deal with anomalies in their insurance claims.
+
+Healthcare data naturally involves a number of relevant interactions between different entities. Kirontech has yet to explore graph-based anomaly detection (GBAD) techniques.
+
+**The goal of this project is to adopt different GBAD methods on Kirontech's real-life dataset and provide evidence that graph-based data is useful to examine different anomalies.**
+
 <br/>
 
 ## Main References
