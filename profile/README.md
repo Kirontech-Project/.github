@@ -1,5 +1,5 @@
 # Project: Graph-Based Anomaly Detection in Healthcare Data
->It is a MathSys 2021-22 MSc group project at University of Warwick.
+>MathSys 2021-22 MSc group project at University of Warwick.
 
 Our external partners at [Kirontech](https://www.kirontech.com/) offer a Health Insurance Platform that helps insurance payers deal with anomalies in their insurance claims.
 
