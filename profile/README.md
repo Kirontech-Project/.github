@@ -30,31 +30,7 @@ We use Python for programming in this project.
 <br/>
 
 ## Network Visualization
-### A. Python Packages
-- **nxviz**: https://github.com/ericmjl/nxviz
-- **ForceAtlas2**: https://github.com/bhargavchippada/forceatlas2
-- **curved_edges**: https://github.com/beyondbeneath/bezier-curved-edges-networkx
-
-
-### B. Softwares
-There are many visualization tools available for network analysis, which are detailedly evaluated [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5540468/).  Two softwares among them are used in this project. We particularly list the installation method for Ubuntu since it is our case.
-
-#### 1. Gephi
-- **Website**: https://gephi.org/
-- **Technology**: C++, Qt
-- **Platform**: Windows, Mac, Linux
-- **Installation for Ubuntu**: https://lucahammer.com/2020/02/26/how-to-install-gephi-0-9-2-on-ubuntu-18-04
-
-Gephi is an open-source graph analysis and visualization program. We use it to manually adjust graph layout by applying **ForceAtlas2**. 
-
-#### 2. Tulip
-- **Website**: https://tulip.labri.fr/site/
-- **Technology**: Java
-- **Platform**: Windows, Mac, Linux
-
-Tulip is another open-source graph visualization and analysis tool. Here it is applied for **edge bundling**.
-
-Explanation and other platforms for **edge bundling** are available [here](https://courses.isds.tugraz.at/ivis/surveys/ss2017/ivis-ss2017-g4-survey-edge-bundling.pdf).
+See resources [here](https://github.com/YuetingH).
 
 <br/>
 
